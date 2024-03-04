@@ -1,4 +1,4 @@
-# Código creado por @gata_dios      
+# Código creado por @fmtlvz     
 
 #!/data/data/com.termux/files/usr/bin/bash 
 # Interpretación determinada para la ejecución      
@@ -203,7 +203,7 @@ git clone https://github.com/GataNina-Li/GataBot-MD.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\nThe clone has been downloaded and installed successfully.\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\nChanging to the repository directory!!\n\033[0m" 
-cd GataBot-MD
+cd FMTLVZ-BOT
 
 echo -e "\e[36m
 ██╗░░░██╗██████╗░██████╗░░█████╗░████████╗███████╗  ██╗░░░██╗░█████╗░██████╗░███╗░░██╗
